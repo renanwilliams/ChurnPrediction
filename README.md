@@ -1,10 +1,10 @@
 # ChurnPrediction
-Credit Card Customers - Kaggle DataBase (https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?resource=download)
+### Credit Card Customers - Kaggle DataBase (https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers?resource=download)
 
-- About Dataset:
+### About Dataset:
 A manager at the bank is disturbed with more and more customers leaving their credit card services. They would really appreciate if one could predict for them who is gonna get churned so they can proactively go to the customer to provide them better services and turn customers' decisions in the opposite direction
 
-- Variables Description:
+### Variables Description:
 
 - 'CLIENTNUM' = Customer identifier
 - 'Attrition_Flag' = 'Existing Customer' or 'Attrited Customer', if the customer is still in the base or if the account is closed.
